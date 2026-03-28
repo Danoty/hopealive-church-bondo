@@ -1,29 +1,12 @@
-HOPE ALIVE SDA CHURCH BONDO — WORLD CLASS V4
+RASUCO WEBSITE FILES
 
-What is included:
-- index.html (homepage with mega-menu, search, hero image system, full-width ministry blocks)
-- about.html
-- beliefs.html
-- ministries.html
-- sermons.html
-- contact.html
-- assets/css/styles.css
-- assets/js/main.js
-- assets/img/logo-mark.svg
+Important:
+1. Upload ALL files and folders exactly as they are.
+2. Keep the assets folder in the same level as index.html.
+3. Do not upload only index.html alone.
+4. For GitHub Pages, place index.html and the assets folder in the repository root.
 
-Update before publishing:
-1. WhatsApp number
-2. Phone number
-3. Church email
-4. Exact location / Google Map link
-5. Real church photos / logo if available
-6. YouTube or livestream links
-
-Publishing:
-- Upload all files and folders to your GitHub Pages repository root.
-- Keep the folder structure exactly as provided.
-
-Notes:
-- Search works as an on-site quick finder and command palette (Ctrl+K on desktop).
-- The mega-menu works on desktop; mobile uses a slide-out menu.
-- Remote placeholder images are used for the premium homepage visual system and ministry sections.
+Main image files used:
+- assets/img/logo.png
+- assets/img/students-1.png
+- assets/img/students-2.png
