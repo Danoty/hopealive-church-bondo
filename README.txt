@@ -1,4 +1,4 @@
-WEBSITE PACKAGE: Hope Alive SDA Church Bondo
+HOPE ALIVE SDA CHURCH BONDO - WORLD-CLASS V2
 
 FILES INCLUDED
 - index.html
@@ -9,16 +9,16 @@ FILES INCLUDED
 - contact.html
 - assets/css/style.css
 - assets/js/main.js
+- assets/img/hero-illustration.svg
 
-HOW TO USE
-1. Unzip the folder.
-2. Open index.html in your browser.
-3. Replace placeholder text with your final church content.
-4. Add your logo and photos inside the assets/img folder.
-5. Upload all files to GitHub Pages, Netlify, or your hosting.
+QUICK EDITS TO MAKE BEFORE PUBLISHING
+1. Replace WhatsApp placeholder number: 254700000000
+2. Replace church email and exact location in contact.html
+3. Add your real logo and photos
+4. Replace livestream placeholder with your YouTube embed
+5. Update event details with real dates and announcements
 
-CUSTOMIZATION NOTES
-- Church name appears in the header and footer of each page.
-- Contact page contains placeholder phone/email.
-- Gallery page uses styled placeholders ready for real images.
-- The design is fully responsive.
+DEPLOY
+- Upload all files to your GitHub repository root
+- Commit and push
+- GitHub Pages will publish the site
